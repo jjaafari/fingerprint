@@ -1,0 +1,1912 @@
+ID,county,PD,TP,P,NP,rate
+26,Lycoming,Duboistown Boro Police Dept,14,14,0,100%
+26,Lycoming,Hughesville Boro Police Dept,22,22,0,100%
+26,Lycoming,Lycoming County Sheriff,16,16,0,100%
+26,Lycoming,"Lycoming County, Detectives",69,60,9,87%
+26,Lycoming,Montgomery Boro Police Dept,18,17,1,94%
+26,Lycoming,Montoursville Boro Police Dept,157,147,10,94%
+26,Lycoming,Muncy Boro Police Dept,34,33,1,97%
+26,Lycoming,Muncy Township Police Dept,79,76,3,96%
+26,Lycoming,Old Lycoming Township Police Dept,152,142,10,93%
+26,Lycoming,"Penna Coll Of Tech, College PD",66,64,2,97%
+26,Lycoming,S Williamsport Police Dept,57,54,3,95%
+26,Lycoming,Tiadaghton Valley,93,84,9,90%
+26,Lycoming,Williamsport City Police Dept,809,658,151,81%,,,,,,
+62,Adams,Adams County District Attorney,49,48,1,98%
+,Adams,Adams County Sheriff,6,6,0,100%
+,Adams,Biglerville Boro Police Dept,9,9,0,100%
+,Adams,Bonneauville Boro Police Dept,5,5,0,100%
+,Adams,Carroll Valley Police Dept,53,50,3,94%
+,Adams,Conewago Township Police Dept,92,87,5,95%
+,Adams,Cumberland Township Police Dept,128,127,1,99%
+,Adams,East Berlin Boro Police Dept,2,2,0,100%
+,Adams,Eastern Adams Regl Police Dept,101,98,3,97%
+,Adams,Gettysburg Boro Police Dept,176,169,7,96%
+,Adams,Latimore Township Police Dept,4,4,0,100%
+,Adams,Liberty Township Police Dept,1,1,0,100%
+,Adams,Littlestown Boro Police Dept,80,77,3,96%
+,Adams,Mcsherrystown Police Dept,20,19,1,95%
+,Adams,Reading Township Police Dept,19,19,0,100%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+61,Allegheny,Allegheny County District Attorney,104,93,11,89%
+,Allegheny,Allegheny County Police Dept,643,602,41,94%
+,Allegheny,Allegheny County Sheriff,252,242,10,96%
+,Allegheny,"Allegheny County, Housing Auth",27,27,0,100%
+,Allegheny,Aspinwall Boro Police Dept,15,14,1,93%
+,Allegheny,Avalon Boro Police Dept,58,50,8,86%
+,Allegheny,Baldwin Police Dept,283,248,35,88%
+,Allegheny,Baldwin Township Police Dept,27,23,4,85%
+,Allegheny,Bell Acres Police Dept,9,9,0,100%
+,Allegheny,Bellevue Boro Police Dept,182,166,16,91%
+,Allegheny,Bethel Park Police Dept,290,276,14,95%
+,Allegheny,Blawnox Boro Police Dept,3,3,0,100%
+,Allegheny,Brackenridge Boro Police Dept,23,22,1,96%
+,Allegheny,Braddock Hills Boro Police Dept,36,29,7,81%
+,Allegheny,"Braddock, Boro Of Police Dept",111,94,17,85%
+,Allegheny,Brentwood Boro Police Dept,388,337,51,87%
+,Allegheny,Bridgeville Boro Police Dept,95,93,2,98%
+,Allegheny,Carlow University PD,2,2,0,100%
+,Allegheny,"Carnegie Mellon, University PD",26,25,1,96%
+,Allegheny,Carnegie Police Dept,95,93,2,98%
+,Allegheny,Castle Shannon Police Dept,195,180,15,92%
+,Allegheny,"Chatham, College PD",1,1,0,100%
+,Allegheny,Cheswick Boro Police Dept,28,27,1,96%
+,Allegheny,Churchill Boro Police Dept,33,27,6,82%
+,Allegheny,Clairton City Police Dept,217,178,39,82%
+,Allegheny,Collier Township Police Dept,129,125,4,97%
+,Allegheny,Coraopolis Boro Police Dept,104,94,10,90%
+,Allegheny,Crafton Borough Police Dept,195,185,10,95%
+,Allegheny,Crescent Township Police Dept,22,22,0,100%
+,Allegheny,Dormont Police Dept,95,84,11,88%
+,Allegheny,Duquesne Police Dept,208,173,35,83%
+,Allegheny,"Duquesne, University PD",10,8,2,80%
+,Allegheny,East Deer Township Police Dept,36,35,1,97%
+,Allegheny,East Mckeesport Police Dept,50,49,1,98%
+,Allegheny,East Pittsburgh Boro Police Dept,95,82,13,86%
+,Allegheny,Edgewood Boro Police Dept,72,65,7,90%
+,Allegheny,Edgeworth Dpt Police Dept,22,19,3,86%
+,Allegheny,Elizabeth Boro Police Dept,99,85,14,86%
+,Allegheny,Elizabeth Township Police Dept,101,74,27,73%
+,Allegheny,Etna Police Dept,95,80,15,84%
+,Allegheny,Fawn Township Police Dept,13,12,1,92%
+,Allegheny,Findlay Township Police Dept,21,20,1,95%
+,Allegheny,Forest Hills Police Dept,72,64,8,89%
+,Allegheny,Forward Township Police Dept,25,17,8,68%
+,Allegheny,Fox Chapel Borough Police Dept,12,10,2,83%
+,Allegheny,Franklin Park Police Dept,76,68,8,89%
+,Allegheny,Frazer Township Pd Police Dept,351,337,14,96%
+,Allegheny,Glassport Police Dept,94,78,16,83%
+,Allegheny,"Greene County, Detectives",1,0,1,0%
+,Allegheny,Greentree Police Dept,96,90,6,94%
+,Allegheny,Hampton Township Police Dept,188,174,14,93%
+,Allegheny,Harmar Township Police Dept,161,156,5,97%
+,Allegheny,Harrison Township Police Dept,123,119,4,97%
+,Allegheny,Heidelberg Boro Police Dept,33,31,2,94%
+,Allegheny,Homestead Police Dept,258,225,33,87%
+,Allegheny,Indiana Township Police Dept,31,30,1,97%
+,Allegheny,Ingram Borough Police Dept,52,50,2,96%
+,Allegheny,Jefferson Hills Police Dept,132,116,16,88%
+,Allegheny,Kennedy Township Police Dept,81,74,7,91%
+,Allegheny,Leet Township Police Dept,2,2,0,100%
+,Allegheny,Leetsdale Police Dept,23,19,4,83%
+,Allegheny,Liberty Boro Police Dept,23,19,4,83%
+,Allegheny,Lincoln Boro Police Dept,24,20,4,83%
+,Allegheny,Mccandless Police Dept,138,129,9,93%
+,Allegheny,McDonald Boro Police Dept,4,4,0,100%
+,Allegheny,Mckees Rocks Police Dept,338,317,21,94%
+,Allegheny,Mckeesport Police Dept,643,584,59,91%
+,Allegheny,Millvale Police Dept,98,91,7,93%
+,Allegheny,Monroeville Police Dept,557,500,57,90%
+,Allegheny,Moon Township Police Dept,315,294,21,93%
+,Allegheny,Mt Lebanon Police Dept,222,202,20,91%
+,Allegheny,Mt Oliver Boro Police Dept,324,279,45,86%
+,Allegheny,Munhall Police Dept,183,158,25,86%
+,Allegheny,N Braddock Boro Police Dept,94,80,14,85%
+,Allegheny,N Fayette Township Police Dept,129,120,9,93%
+,Allegheny,North Versailles Police Dept,458,428,30,93%
+,Allegheny,Northern Regl Pd Police Dept,140,135,5,96%
+,Allegheny,O'hara Township Police Dept,28,27,1,96%
+,Allegheny,Oakdale Police Dept,11,11,0,100%
+,Allegheny,Oakmont Boro Police Dept,47,46,1,98%
+,Allegheny,Ohio Township Police Dept,192,177,15,92%
+,Allegheny,Penn Hills Police Dept,480,433,47,90%
+,Allegheny,Penn State Greater Allegheny Campus,4,3,1,75%
+,Allegheny,Pitcairn Police Dept,124,105,19,85%
+,Allegheny,Pittsburgh Police Dept,7561,6985,576,92%
+,Allegheny,Pittsburgh School Police Dept,21,20,1,95%
+,Allegheny,Pleasant Hills Police Dept,146,96,50,66%
+,Allegheny,Plum Boro Police Dept,200,186,14,93%
+,Allegheny,Point Park University Police Dept,8,8,0,100%
+,Allegheny,Port Authority Police Dept,347,316,31,91%
+,Allegheny,Port Vue Police Dept,35,29,6,83%
+,Allegheny,Rankin Boro Police Dept,80,75,5,94%
+,Allegheny,Reserve Township Police Dept,26,23,3,88%
+,Allegheny,Robert Morris Police Dept,4,4,0,100%
+,Allegheny,Robinson Township Police Dept,386,363,23,94%
+,Allegheny,Ross Township Police Dept,398,362,36,91%
+,Allegheny,S Fayette Township Police Dept,62,59,3,95%
+,Allegheny,Scott Township Police Dept,173,159,14,92%
+,Allegheny,Sewickley Boro Police Dept,51,47,4,92%
+,Allegheny,Sewickley Hgts Police Dept,6,6,0,100%
+,Allegheny,Shaler Police Dept,149,128,21,86%
+,Allegheny,Sharpsburg Boro Police Dept,93,84,9,90%
+,Allegheny,South Park Tn Police Dept,69,61,8,88%
+,Allegheny,Springdale Boro Police Dept,56,53,3,95%
+,Allegheny,Springdale Township Police Dept,30,29,1,97%
+,Allegheny,Stowe Township Police Dept,310,296,14,95%
+,Allegheny,Swissvale Police Dept,203,165,38,81%
+,Allegheny,Tarentum Boro Police Dept,54,49,5,91%
+,Allegheny,Trafford Boro Police Dept,4,4,0,100%
+,Allegheny,Turtle Creek Police Dept,110,96,14,87%
+,Allegheny,Univ Of Pittsburgh Police Dept,183,167,16,91%
+,Allegheny,Upper St Clair Police Dept,75,71,4,95%
+,Allegheny,Verona Boro Police Dept,74,65,9,88%
+,Allegheny,Versailles Boro Police Dept,27,18,9,67%
+,Allegheny,West Deer Township Police Dept,68,66,2,97%
+,Allegheny,West Homestead Police Dept,44,38,6,86%
+,Allegheny,West Mifflin Police Dept,562,486,76,86%
+,Allegheny,West View Boro Police Dept,128,121,7,95%
+,Allegheny,Whitaker Police Dept,29,28,1,97%
+,Allegheny,White Oak Boro Police Dept,106,89,17,84%
+,Allegheny,Whitehall Boro Police Dept,93,82,11,88%
+,Allegheny,Wilkins Township Police Dept,67,59,8,88%
+,Allegheny,Wilkinsburg Police Dept,362,312,50,86%,,,,,,
+60,Armstrong,Apollo Boro Police Dept,46,38,8,83%
+,Armstrong,Armstrong County District Attorney,32,15,17,47%
+,Armstrong,Armstrong County Sheriff,5,4,1,80%
+,Armstrong,"Armstrong County, Detectives",35,19,16,54%
+,Armstrong,East Franklin Township Police Dept,67,35,32,52%
+,Armstrong,Elderton Borough Police Dept,6,3,3,50%
+,Armstrong,Ford City Boro Police Dept,48,23,25,48%
+,Armstrong,Freeport Boro Police Dept,4,1,3,25%
+,Armstrong,Gilpin Township Police Dept,40,13,27,33%
+,Armstrong,Kiskiminetas Township Police Dept,63,53,10,84%
+,Armstrong,Kittanning Boro Police Dept,131,65,66,50%
+,Armstrong,Leechburg Boro Police Dept,50,40,10,80%
+,Armstrong,Manor Township Police Dept,14,5,9,36%
+,Armstrong,New Bethlehem Boro Police Dept,19,3,16,16%
+,Armstrong,North Buffalo Police Dept,6,1,5,17%
+,Armstrong,Parker City Police Dept,1,1,0,100%
+,Armstrong,Parks Township Police Dept,31,16,15,52%
+,Armstrong,South Buffalo Township Police Dept,3,3,0,100%
+,Armstrong,West Kittanning Police Dept,6,3,3,50%
+,Armstrong,Worthington Boro Police Dept,7,2,5,29%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,,,,,,,,,,
+59,Beaver,Aliquippa City Police Dept,263,256,7,97%
+,Beaver,Ambridge Boro Police Dept,237,231,6,97%
+,Beaver,Baden Boro Police Dept,88,81,7,92%
+,Beaver,Beaver Boro Police Dept,58,56,2,97%
+,Beaver,Beaver County Sheriff,20,20,0,100%
+,Beaver,"Beaver County, Detectives",60,59,1,98%
+,Beaver,Beaver Falls Police Dept,349,332,17,95%
+,Beaver,Bridgewater Police Dept,21,21,0,100%
+,Beaver,Brighton Township Police Dept,43,41,2,95%
+,Beaver,Center Township Police Dept,361,348,13,96%
+,Beaver,Chippewa Township Police Dept,187,184,3,98%
+,Beaver,Conway Boro Police Dept,62,61,1,98%
+,Beaver,Darlington Township Police Dept,13,13,0,100%
+,Beaver,Economy Boro Police Dept,132,129,3,98%
+,Beaver,Ellwood City Boro Police Dept,12,11,1,92%
+,Beaver,Franklin Township Police Dept,36,32,4,89%
+,Beaver,Freedom Borough Police Dept,22,22,0,100%
+,Beaver,Harmony Township Police Dept,81,78,3,96%
+,Beaver,Hopewell Township Police Dept,121,119,2,98%
+,Beaver,Independence Township Police Dept,10,10,0,100%
+,Beaver,Koppel Boro Police Dept,16,16,0,100%
+,Beaver,Marion Township Police Dept,4,4,0,100%
+,Beaver,Midland Boro Police Dept,143,137,6,96%
+,Beaver,Monaca Boro Police Dept,151,151,0,100%
+,Beaver,New Brighton Police Dept,252,243,9,96%
+,Beaver,New Sewickley Township Police Dept,119,115,4,97%
+,Beaver,North Sewickley Township Police Dept,61,59,2,97%
+,Beaver,Ohioville Boro Police Dept,24,23,1,96%
+,Beaver,Patterson Township Police Dept,61,59,2,97%
+,Beaver,Penn State Univer Police Dept,1,1,0,100%
+,Beaver,Raccoon Township Police Dept,17,17,0,100%
+,Beaver,Rochester Borough Police Dept,310,299,11,96%
+,Beaver,Rochester Township Police Dept,74,71,3,96%
+,Beaver,Shippingport Boro Police Dept,,,,
+,Beaver,South Beaver Township Police Dept,24,21,3,88%
+,Beaver,South Heights Boro Police Dept,1,1,0,100%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,,,,,,,,,,
+58,Bedford,Bedford County District Attorney,13,8,5,62%
+,Bedford,Bedford County Sheriff,18,15,3,83%
+,Bedford,Bedford Police Dept,37,28,9,76%
+,Bedford,Everett Boro Police Dept,22,16,6,73%
+,Bedford,Saxton Boro Police Dept,40,28,12,70%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,,,,,,,,,,
+57,Berks,Amity Township Police Dept,138,126,12,91%
+,Berks,Bally Boro Police Dept,5,5,0,100%
+,Berks,Berks County District Attorney,230,217,13,94%
+,Berks,Berks County Sheriff,14,12,2,86%
+,Berks,Bern Township Police Dept,61,59,2,97%
+,,Bernville Boro Police Dept,1,1,0,100%
+,Berks,Bethel Township Police Dept,31,24,7,77%
+,Berks,Birdsboro Boro Police Dept,47,43,4,91%
+,Berks,Boyertown Police Dept,101,99,2,98%
+,Berks,Brecknock Township Police Dept,53,52,1,98%
+,Berks,Caernarvon Township Police Dept,68,66,2,97%
+,Berks,Central Berks Region Police Dept,91,81,10,89%
+,Berks,Colebrookdale Township Police Dept,75,73,2,97%
+,Berks,Cumru Township Police Dept,177,158,19,89%
+,Berks,Douglass Township Police Dept,30,28,2,93%
+,Berks,Exeter Township Police Dept,468,403,65,86%
+,Berks,Fleetwood Boro Police Dept,59,57,2,97%
+,,"Franklin And Marshal, College PD",1,1,0,100%
+,Berks,Hamburg Boro Police Dept,53,50,3,94%
+,,Heidelberg Township Police Dept,1,1,0,100%
+,Berks,Kutztown Boro Police Dept,113,106,7,94%
+,Berks,"Kutztown, University PD",85,84,1,99%
+,Berks,Laureldale Boro Police Dept,31,24,7,77%
+,Berks,Lower Heidelberg Township Police Dept,35,31,4,89%
+,Berks,Mohnton Boro Police Dept,20,16,4,80%
+,Berks,Muhlenberg Township Police Dept,644,579,65,90%
+,,Norfolk Southern Police Dept,2,2,0,100%
+,Berks,Northern Berks Police Dept,125,114,11,91%
+,Berks,Oley Township Police Dept,16,15,1,94%
+,Berks,"Penn State, University PD",24,24,0,100%
+,Berks,Reading City Police Dept,2604,2251,353,86%
+,Berks,Robeson Police Dept,42,39,3,93%
+,Berks,Shillington Boro Police Dept,81,71,10,88%
+,Berks,Sinking Springs Boro Police Dept,59,54,5,92%
+,Berks,South Heidelberg Township Police Dept,44,38,6,86%
+,Berks,Spring Township Police Dept,268,254,14,95%
+,Berks,Tilden Township Police Dept,32,30,2,94%
+,Berks,Tulpehocken Township Police Dept,8,8,0,100%
+,Berks,West Reading Boro Police Dept,208,158,50,76%
+,Berks,Western Berks Regional Police Dept.,64,60,4,94%
+,Berks,Womelsdorf Boro Police Dept,21,19,2,90%
+,Berks,Wyomissing Boro Police Dept,382,309,73,81%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,,,,,,,,,,
+56,Blair,Allegheny Township Police Dept,243,188,55,77%
+,Blair,Altoona Area SD Police Dept,2,1,1,50%
+,Blair,Altoona Police Dept,1394,1142,252,82%
+,Blair,Bellwood Boro Police Dept,20,14,6,70%
+,Blair,Blair County District Attorney,1,1,0,100%
+,Blair,Blair County Sheriff,20,14,6,70%
+,Blair,Blair Township Police Dept,34,26,8,76%
+,Blair,Duncansville Boro Police Dept,16,12,4,75%
+,Blair,Freedom Township Police Dept,147,133,14,90%
+,Blair,Greenfield Township Police Dept,103,95,8,92%
+,Blair,Hollidaysburg Boro Police Dept,65,56,9,86%
+,Blair,Logan Township Police Dept,284,241,43,85%
+,Blair,Martinsburg Boro Police Dept,13,12,1,92%
+,Blair,Norfolk Southern Police Dept,8,7,1,88%
+,Blair,North Woodbury Township Police Dept,5,5,0,100%
+,Blair,"Penn State, University PD",30,19,11,63%
+,Blair,Roaring Spring Boro Police Dept,16,15,1,94%
+,Blair,Tyrone Boro Police Dept,122,104,18,85%
+,Blair,Williamsburg Boro Police Dept,4,4,0,100%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,,,,,,,,,,
+55,Bradford,Athens Boro Police Dept,85,60,25,71%
+,Bradford,Athens Township Police Dept,226,200,26,88%
+,Bradford,Bradford County Sheriff,18,14,4,78%
+,Bradford,"Bradford County, Detectives",4,0,4,0%
+,Bradford,Canton Boro Police Dept,43,22,21,51%
+,Bradford,Laceyville Boro Police Dept,1,1,0,100%
+,Bradford,Sayre Boro Police Dept,182,116,66,64%
+,Bradford,Towanda Boro Police Dept,137,35,102,26%
+,Bradford,Troy Boro Police Dept,9,0,9,0%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,,,,,,,,,,
+54,Bucks,Bedminster Township Police Dept,56,52,4,93%
+,Bucks,Bensalem Township Police Dept,2039,1911,128,94%
+,Bucks,Bristol Boro Police Dept,75,61,14,81%
+,Bucks,Bristol Township Police Dept,618,544,74,88%
+,Bucks,Buckingham Township Police Dept,77,65,12,84%
+,Bucks,Bucks County Prison,42,42,0,100%
+,Bucks,Bucks County Sheriff,4,4,0,100%
+,Bucks,"Bucks County, Detectives",55,51,4,93%
+,Bucks,"Bucks County, Rangers",20,16,4,80%
+,Bucks,Central Bucks Regional Police,205,181,24,88%
+,Bucks,Chalfont Boro Police Dept,31,23,8,74%
+,Bucks,Doylestown Boro Police Dept,1,0,1,0%
+,Bucks,Doylestown Township Police Dept,153,147,6,96%
+,Bucks,Dublin Boro Police Dept,16,16,0,100%
+,Bucks,Falls Township Police Dept,569,491,78,86%
+,Bucks,Hilltown Township Police Dept,254,218,36,86%
+,Bucks,Hulmeville Boro Police Dept,5,2,3,40%
+,Bucks,Langhorne Boro Police Dept,13,13,0,100%
+,Bucks,Langhorne Manor Police Dept,4,3,1,75%
+,Bucks,Lower Makefield Police Dept,201,175,26,87%
+,Bucks,Lower Southampton Police Dept,261,241,20,92%
+,Bucks,Middletown Township Police Dept,710,657,53,93%
+,Bucks,Morrisville Boro Police Dept,243,229,14,94%
+,Bucks,New Britain Boro Police Dept,20,16,4,80%
+,Bucks,New Britain Township Police Dept,56,51,5,91%
+,Bucks,New Hope Boro Police Dept,50,43,7,86%
+,Bucks,Newtown Boro Police Dept,43,43,0,100%
+,Bucks,Newtown Township Police Dept,145,138,7,95%
+,Bucks,Northampton Township Police Dept,172,167,5,97%
+,Bucks,Penndel Boro Police Dept,60,47,13,78%
+,Bucks,Pennridge Regional Police Dept,55,47,8,85%
+,Bucks,Perkasie Boro Police Dept,140,126,14,90%
+,Bucks,Plumstead Township Police Dept,105,86,19,82%
+,Bucks,Quakertown Boro Police Dept,234,224,10,96%
+,Bucks,Richland Township Police Dept,208,192,16,92%
+,Bucks,Solebury Township Police Dept,46,36,10,78%
+,Bucks,Springfield Township Police Dept,14,12,2,86%
+,Bucks,Telford Boro Police Dept,23,16,7,70%
+,Bucks,Tinicum Township Police Dept,33,32,1,97%
+,Bucks,Tullytown Borough Police Dept,263,247,16,94%
+,Bucks,Upper Dublin Township Police Dept,1,1,0,100%
+,Bucks,Upper Makefield Police Dept,35,32,3,91%
+,Bucks,Upper Southampton Police Dept,184,181,3,98%
+,Bucks,Warminster Township Police Dept,338,326,12,96%
+,Bucks,Warrington Township Police Dept,297,268,29,90%
+,Bucks,Warwick Township Police Dept,138,133,5,96%
+,Bucks,Yardley Boro Police Dept,48,41,7,85%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,,,,,,,,,,
+53,Butler,Adams Township Police Dept,111,94,17,85%
+,Butler,Buffalo Township Police Dept,43,34,9,79%
+,Butler,Butler City Police Dept,691,577,114,84%
+,Butler,Butler Community College PD,3,2,1,67%
+,Butler,Butler County Sheriff,19,12,7,63%
+,Butler,"Butler County, Detectives",91,80,11,88%
+,Butler,Butler Township Police Dept,493,440,53,89%
+,Butler,Callery Boro Police Dept,1,1,0,100%
+,Butler,Cranberry Township Police Dept,459,385,74,84%
+,Butler,Evans City Boro Police Dept,5,4,1,80%
+,Butler,Evans City Seven Fields Reg PD,19,18,1,95%
+,Butler,Harrisville Boro Police Dept,2,1,1,50%
+,Butler,Jackson Township Police Dept,53,51,2,96%
+,Butler,Lancaster Township Police Dept,14,14,0,100%
+,Butler,Middlesex Township Police Dept,60,57,3,95%
+,Butler,Penn Township Police Dept,72,67,5,93%
+,Butler,"Philadelphia, Housing Auth",12,12,0,100%
+,Butler,Saxonburg Boro Police Dept,18,13,5,72%
+,Butler,Slippery Rock Boro Police Dept,54,48,6,89%
+,Butler,"Slippery Rock, University PD",33,31,2,94%
+,Butler,Zelienople Police Dept,35,29,6,83%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+52,Cambria,Adams Township Police Dept,27,27,0,100%
+,Cambria,Ashville Boro Police Dept,1,1,0,100%
+,Cambria,Blacklick Township Police Dept,8,8,0,100%
+,Cambria,Cambria County DUI Task Force,9,8,1,89%
+,Cambria,Cambria County Sheriff,50,45,5,90%
+,Cambria,"Cambria County, Detectives",184,172,12,93%
+,Cambria,Cambria Township Police Dept,173,152,21,88%
+,Cambria,Carrolltown Boro Police Dept,27,25,2,93%
+,Cambria,Conemaugh Township Police Dept,17,17,0,100%
+,Cambria,Cresson Boro Police Dept,64,59,5,92%
+,Cambria,Cresson Township Police Dept,69,66,3,96%
+,Cambria,Croyle Township Police Dept,8,8,0,100%
+,Cambria,Dale Boro Police Dept,32,24,8,75%
+,Cambria,E Conemaugh Boro Police Dept,47,46,1,98%
+,Cambria,East Taylor Township Police Dept,29,26,3,90%
+,Cambria,Ebensburg Boro Police Dept,84,78,6,93%
+,Cambria,Ferndale Boro Police Dept,31,26,5,84%
+,Cambria,Gallitzin Boro Police Dept,33,30,3,91%
+,Cambria,Gallitzin Township Pd Police Dept,3,3,0,100%
+,Cambria,Geistown Boro Police Dept,18,15,3,83%
+,Cambria,Hastings Boro Police Dept,38,35,3,92%
+,Cambria,Jackson Township Police Dept,52,46,6,88%
+,Cambria,Johnstown Police Dept,917,818,99,89%
+,Cambria,Nanty Glo Boro Police Dept,34,32,2,94%
+,Cambria,Northern Cambria Police Dept,93,88,5,95%
+,Cambria,Paint Township Police Dept,1,0,1,0%
+,Cambria,Patton Boro Police Dept,28,28,0,100%
+,Cambria,Portage Boro Police Dept,23,22,1,96%
+,Cambria,Richland Township Police Dept,528,440,88,83%
+,Cambria,"St Francis, University PD",1,1,0,100%
+,Cambria,South Fork Boro Police Dept,6,6,0,100%
+,Cambria,Stonycreek Township Police Dept,37,27,10,73%
+,Cambria,Summerhill Township Police Dept,21,21,0,100%
+,Cambria,Univ Of Pittsburgh Police Dept,4,4,0,100%
+,Cambria,Upper Yoder Township Police Dept,20,17,3,85%
+,Cambria,West Hills Regional Police Dept,93,86,7,92%
+,Cambria,Windber Boro Police Dept,10,8,2,80%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+51,Cameron,Emporium Boro Police Dept,26,20,6,77%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+50,Carbon,Beaver Meadows Boro Police Dept,24,22,2,92%
+,Carbon,East Penn Township Police Dept,4,4,0,100%
+,Carbon,Franklin Township Police Dept,56,54,2,96%
+,Carbon,Jim Thorpe Police Dept,66,57,9,86%
+,Carbon,Kidder Township Police Dept,44,41,3,93%
+,Carbon,Lansford Boro Police Dept,204,176,28,86%
+,Carbon,Lehighton Boro Police Dept,137,118,19,86%
+,Carbon,Mahoning Township Police Dept,240,223,17,93%
+,Carbon,Nesquehoning Boro Police Dept,129,111,18,86%
+,Carbon,Palmerton Boro Police Dept,115,101,14,88%
+,Carbon,Summit Hill Boro Police Dept,18,14,4,78%
+,Carbon,Weatherly Boro Police Dept,60,55,5,92%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+49,Centre,Bellefonte Boro Police Dept,96,91,5,95%
+,Centre,Centre County Sheriff,1,1,0,100%
+,Centre,Ferguson Township Police Dept,169,160,9,95%
+,Centre,Patton Township Police Dept,242,236,6,98%
+,Centre,"Penn State, University PD",313,306,7,98%
+,Centre,Spring Township Police Dept,81,72,9,89%
+,Centre,State College Police Department,584,554,30,95%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+48,Chester,Bethel Park Police Dept,2,1,1,50%
+,Chester,Birmingham Township Police Dept,17,15,2,88%
+,Chester,Caln Township Police Dept,162,116,46,72%
+,Chester,"Chester County, Detectives",77,72,5,94%
+,Chester,Christiana Boro Police Dept,3,1,2,33%
+,Chester,Coatesville Area School District,1,0,1,0%
+,Chester,Coatesville City Police Dept,418,332,86,79%
+,Chester,"Delaware County, Cid",1,1,0,100%
+,Chester,Downingtown Boro Police Dept,134,118,16,88%
+,Chester,E Coventry Township Police Dept,11,9,2,82%
+,Chester,E Fallowfield Township Police Dept,20,11,9,55%
+,Chester,E Vincent Township Police Dept,21,19,2,90%
+,Chester,E Whiteland Township Police Dept,97,81,16,84%
+,Chester,East Brandywine Township Police Dept,40,34,6,85%
+,Chester,East Marlborough Township Police Dept,4,2,2,50%
+,Chester,East Pikeland Township Pd Police Dept,79,69,10,87%
+,Chester,Easttown Township Police Dept,55,51,4,93%
+,Chester,Honeybrook Boro Police Dept,5,1,4,20%
+,Chester,Kennett Square Police Dept,107,83,24,78%
+,Chester,Kennett Township Police Dept,24,16,8,67%
+,Chester,"Lincoln, University PD",26,20,6,77%
+,Chester,Malvern Boro Police Dept,14,12,2,86%
+,Chester,N Coventry Township Police Dept,116,111,5,96%
+,Chester,New Garden Township Police Dept,135,105,30,78%
+,Chester,Oxford Boro Police Dept,59,38,21,64%
+,Chester,Parkesburg Boro Police Dept,84,56,28,67%
+,Chester,Phoenixville Boro Police Dept,223,196,27,88%
+,Chester,S Coatesville Boro Police Dept,13,7,6,54%
+,Chester,Sadsbury Township Police Dept,26,7,19,27%
+,Chester,Schuylkill Township Police Dept,88,80,8,91%
+,Chester,Spring City Boro Police Dept,50,38,12,76%
+,Chester,Tredyffrin Township Police Dept,243,215,28,88%
+,Chester,Upper Uwchlan Township Police Dept,28,25,3,89%
+,Chester,Uwchlan Township Police Dept,64,59,5,92%
+,Chester,Valley Township Police Dept,50,29,21,58%
+,Chester,W Caln Township Police Dept,53,28,25,53%
+,Chester,West Brandywine Township Police Dept,115,85,30,74%
+,Chester,West Chester Boro Police Dept,295,261,34,88%
+,Chester,"West Chester, University PD",42,35,7,83%
+,Chester,West Fallowfield Township Police Dept,8,8,0,100%
+,Chester,West Goshen Township Police Dept,153,140,13,92%
+,Chester,West Grove Boro Police Dept,8,4,4,50%
+,Chester,West Nottingham Township Police Dept,3,3,0,100%
+,Chester,West Pikeland Township Police Dept,27,24,3,89%
+,Chester,West Sadsbury Police Dept,86,65,21,76%
+,Chester,West Vincent Township Police Dept,13,11,2,85%
+,Chester,West Whiteland Township Police Dept,373,338,35,91%
+,Chester,Westtown/East Goshen Police Dept,163,145,18,89%
+,Chester,Willistown Township Police Dept,36,34,2,94%,,,,,,
+47,Clarion,Clarion Boro Police Dept,71,63,8,89%
+,Clarion,Clarion County Sheriff,3,3,0,100%
+,Clarion,"Clarion County, Detectives",94,80,14,85%
+,Clarion,"Clarion, University PD",28,26,2,93%
+,Clarion,Emlenton Police Dept,3,3,0,100%
+,Clarion,Knox Boro Police Dept,17,15,2,88%
+,Clarion,New Bethlehem Boro Police Dept,83,75,8,90%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+46,Clearfield,Clearfield Boro Police Dept,230,189,41,82%
+,Clearfield,Clearfield County Sheriff,19,18,1,95%
+,Clearfield,Curwensville Boro Police Dept,34,28,6,82%
+,Clearfield,Decatur Township Police Dept,14,11,3,79%
+,Clearfield,Dubois City Police Dept,163,137,26,84%
+,Clearfield,Lawrence Township Police Dept,157,118,39,75%
+,Clearfield,Morris-Cooper Regl Police Dept,14,8,6,57%
+,Clearfield,Sandy Township Police Dept,154,137,17,89%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+45,Clinton,Clinton County Sheriff,1,1,0,100%
+,Clinton,Lamar Township Police Dept,3,2,1,67%
+,Clinton,Lock Haven De Police Dept,195,187,8,96%
+,Clinton,"Lock Haven, University PD",35,32,3,91%
+,Clinton,Norfolk Southern Police Dept,1,1,0,100%
+,Clinton,Pine Creek Township Police Dept,38,32,6,84%
+,Clinton,Renovo Borough Police Dept,11,6,5,55%
+,Clinton,Woodward Township Police Dept,9,9,0,100%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+44,Columbia,Benton Police Dept,9,7,2,78%
+,Columbia,Berwick Boro Police Dept,212,158,54,75%
+,Columbia,Bloomsburg Police Dept,258,235,23,91%
+,Columbia,"Bloomsburg, University PD",54,49,5,91%
+,Columbia,Briarcreek Township Police Dept,35,26,9,74%
+,Columbia,Catawissa Police Dept,47,33,14,70%
+,Columbia,Columbia County Sheriff,4,3,1,75%
+,Columbia,"Columbia County, Detectives",1,1,0,100%
+,Columbia,Greenwood Township Police Dept,2,1,1,50%
+,Columbia,Hemlock Township Police Dept,138,127,11,92%
+,Columbia,Locust Township PD,35,27,8,77%
+,Columbia,Madison Township Police Dept,1,1,0,100%
+,Columbia,Millville Boro Police Dept,13,8,5,62%
+,Columbia,Montour Township Police Dept,38,33,5,87%
+,Columbia,Orangeville Area Police Dept,9,8,1,89%
+,Columbia,Scott Township Police Dept,100,91,9,91%
+,Columbia,South Centre Township Police Dept,77,57,20,74%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+43,Crawford,"Allegheny College, Safety & Sec",1,0,1,0%
+,Crawford,Cambridge Springs Police Dept,32,29,3,91%
+,Crawford,Cochranton Boro Police Dept,18,12,6,67%
+,Crawford,Conneaut Lake Regl Police Dept,27,23,4,85%
+,Crawford,Crawford County Sheriff,1,0,1,0%
+,Crawford,Linesville Boro Police Dept,19,19,0,100%
+,Crawford,Meadville City Police Dept,311,257,54,83%
+,Crawford,Titusville Police Dept,101,79,22,78%
+,Crawford,Univ Of Pittsburgh Police Dept,7,5,2,71%
+,Crawford,Vernon Township Police Dept,122,85,37,70%
+,Crawford,West Mead Township Police Dept,22,17,5,77%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+42,Cumberland,Camp Hill Police Dept,128,125,3,98%
+,Cumberland,Carlisle Boro Police Dept,600,541,59,90%
+,Cumberland,Cumberland County District Attorney,46,39,7,85%
+,Cumberland,Cumberland County Sheriff,24,23,1,96%
+,Cumberland,"Dickinson, College PD",15,14,1,93%
+,Cumberland,E Pennsboro Township Police Dept,253,225,28,89%
+,Cumberland,Hampden Township Police Dept,310,293,17,95%
+,Cumberland,Lower Allen Township Police Dept,378,357,21,94%
+,Cumberland,Mechanicsburg Police Dept,90,85,5,94%
+,Cumberland,Middlesex Township Police Dept,192,183,9,95%
+,Cumberland,Mt Holly Sprngs Police Dept,42,33,9,79%
+,Cumberland,New Cumberland Police Dept,88,77,11,88%
+,Cumberland,Newville Borough Police Dept,30,28,2,93%
+,Cumberland,North Middleton Police Dept,138,132,6,96%
+,Cumberland,Shippensburg Police Dept,112,95,17,85%
+,Cumberland,"Shippensburg, University PD",32,25,7,78%
+,Cumberland,Shiremanstown Police Dept,16,16,0,100%
+,Cumberland,Silver Spring Police Dept,355,314,41,88%
+,Cumberland,Upper Allen Township Police Dept,180,174,6,97%
+,Cumberland,West Shore Regional Police Dept,225,221,4,98%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+41,Dauphin,Central Dauphin Area School District Police Department,1,1,0,100%
+,Dauphin,Dauphin County District Attorney,174,149,25,86%
+,Dauphin,Dauphin County Sheriff,10,5,5,50%
+,Dauphin,Derry Township Police Dept,415,373,42,90%
+,Dauphin,Halifax Regional Police Dept,8,5,3,63%
+,Dauphin,Harrisburg Police Dept,2763,2398,365,87%
+,Dauphin,Highspire Boro Police Dept,102,91,11,89%
+,Dauphin,Hummelstown Police Dept,88,84,4,95%
+,Dauphin,Lower Paxton Township Police Dept,600,544,56,91%
+,Dauphin,Lower Swatara Township Police Dept,314,292,22,93%
+,Dauphin,Lykens Boro P D Police Dept,50,33,17,66%
+,Dauphin,Middletown Police Dept,154,120,34,78%
+,Dauphin,Millersburg Boro Police Dept,89,64,25,72%
+,Dauphin,Norfolk Southern Police Dept,12,8,4,67%
+,Dauphin,Paxtang Boro Police Dept,22,15,7,68%
+,Dauphin,Penbrook Police Dept,157,135,22,86%
+,Dauphin,"Penn State, University PD",15,12,3,80%
+,Dauphin,Royalton Boro Police Dept,27,18,9,67%
+,Dauphin,State Capitol Police Dept,173,107,66,62%
+,Dauphin,Steelton Police Dept,203,186,17,92%
+,Dauphin,Susquehanna Township Police Dept,620,583,37,94%
+,Dauphin,Swatara Township Police Dept,1390,1253,137,90%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+40,Delaware,Aldan Boro Police Dept,44,36,8,82%
+,Delaware,Aston Township Police Dept,153,140,13,92%
+,Delaware,Bethel Township Police Dept,18,10,8,56%
+,Delaware,Brookhaven Boro Police Dept,96,69,27,72%
+,Delaware,Chester City Police Dept,834,678,156,81%
+,Delaware,Chester Housing Dept Police Dept,2,2,0,100%
+,Delaware,Chester Township Police Dept,132,60,72,45%
+,Delaware,"Cheyney, University PD",17,7,10,41%
+,Delaware,Clifton Hgts Police Dept,111,101,10,91%
+,Delaware,Collingdale Police Dept,139,82,57,59%
+,Delaware,Colwyn Boro Police Dept,11,5,6,45%
+,Delaware,Darby Boro Police Dept,490,458,32,93%
+,Delaware,Darby Township Police Dept,141,98,43,70%
+,Delaware,Delaware County Park Police Dept,43,21,22,49%
+,Delaware,"Delaware County, Cid",213,175,38,82%
+,Delaware,"Dept Corrections, Central",2,2,0,100%
+,Delaware,East Lansdowne Boro Police Dept,37,19,18,51%
+,Delaware,Eddystone Police Dept,238,227,11,95%
+,Delaware,Folcroft Boro Police Dept,100,80,20,80%
+,Delaware,Glenolden Boro Police Dept,112,95,17,85%
+,Delaware,Greencastle Police Dept,1,1,0,100%
+,Delaware,Haverford Township Police Dept,366,341,25,93%
+,Delaware,Lansdowne Boro Police Dept,91,68,23,75%
+,Delaware,Lower Chichester Township Police Dept,87,56,31,64%
+,Delaware,Marcus Hook Boro Police Dept,133,120,13,90%
+,Delaware,Marple Township Police Dept,229,177,52,77%
+,Delaware,Media Boro Police Dept,118,90,28,76%
+,Delaware,Millbourne Boro Police Dept,13,12,1,92%
+,Delaware,Morton Police Dept,92,83,9,90%
+,Delaware,Nether Providence Police Dept,102,75,27,74%
+,Delaware,Newtown Township Police Dept,98,74,24,76%
+,Delaware,Norwood Boro Police Dept,55,31,24,56%
+,Delaware,Parkside Boro Police Dept,21,15,6,71%
+,Delaware,Prospect Park Police Dept,74,59,15,80%
+,Delaware,Radnor Township Police Dept,265,209,56,79%
+,Delaware,Ridley Park Police Dept,42,32,10,76%
+,Delaware,Ridley Township Police Dept,341,295,46,87%
+,Delaware,Sharon Hill Boro Police Dept,89,73,16,82%
+,Delaware,Springfield Police Dept,323,290,33,90%,,,,,,
+39,Elk,Johnsonburg Boro Police Dept,47,27,20,57%
+,Elk,Ridgway Boro Police Dept,65,46,19,71%
+,Elk,St Marys City Police Dept,159,129,30,81%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+38,Erie,Albion Boro Police Dept,26,16,10,62%
+,Erie,Corry City Police Dept,155,126,29,81%
+,Erie,Edinboro Police Dept,51,37,14,73%
+,Erie,"Edinboro, University PD",29,17,12,59%
+,Erie,Erie City Police Dept,1728,1087,641,63%
+,Erie,Erie County Sheriff,28,11,17,39%
+,Erie,"Erie County, Detectives",21,9,12,43%
+,Erie,"Erie County, Prison",7,2,5,29%
+,Erie,Erie SD Police Dept,3,1,2,33%
+,Erie,"Gannon, University PD",5,2,3,40%
+,Erie,Girard Boro Police Dept,37,26,11,70%
+,Erie,Lake City Boro Police Dept,24,21,3,88%
+,Erie,Lawrence Park Township Police Dept,73,64,9,88%
+,Erie,"Mercyhurst, University PD",1,1,0,100%
+,Erie,Millcreek Police Dept,680,578,102,85%
+,Erie,North East Boro Police Dept,92,64,28,70%
+,Erie,"Penn State Behrend, University PD",7,7,0,100%
+,Erie,Union City Boro Police Dept,23,21,2,91%
+,Erie,Wesleyville Boro Police Dept,71,61,10,86%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+36,Franklin,Chambersburg Area School Dist Security Force,10,9,1,90%
+,Franklin,Chambersburg Police Dept,686,638,48,93%
+,Franklin,Franklin County District Attorney,2,2,0,100%
+,Franklin,Franklin County Drug Task Force,45,44,1,98%
+,Franklin,Franklin County Sheriff,21,19,2,90%
+,Franklin,Greencastle Police Dept,59,52,7,88%
+,Franklin,Mercersburg Police Dept,9,9,0,100%
+,Franklin,Shippensburg Police Dept,17,15,2,88%
+,Franklin,Washington Township Police Dept,410,392,18,96%
+,Franklin,Waynesboro Area School District Police,4,4,0,100%
+,Franklin,Waynesboro Police Dept,233,222,11,95%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+37,Fayette,Brownsville Police Dept,44,25,19,57%
+,Fayette,Connellsville Police Dept,274,245,29,89%
+,Fayette,"Dept Corrections, Central",2,2,0,100%
+,Fayette,Dunbar Boro Police Dept,1,1,0,100%
+,Fayette,Fairchance Boro Police Dept,1,1,0,100%
+,Fayette,Fayette City Boro Police Dept,5,4,1,80%
+,Fayette,Fayette County District Attorney,31,29,2,94%
+,Fayette,Luzerne Township Police Dept,2,0,2,0%
+,Fayette,Masontown Police Dept,63,50,13,79%
+,Fayette,Perryopolis Police Dept,7,5,2,71%
+,Fayette,Point Marion Boro Police Dept,1,1,0,100%
+,Fayette,Redstone Township Police Dept,73,58,15,79%
+,Fayette,S Connellsville Boro Police Dept,11,9,2,82%
+,Fayette,Southwest Regl Police Dept,33,24,9,73%
+,Fayette,Uniontown City Police Dept,352,305,47,87%
+,Fayette,Washington Township Police Dept,25,23,2,92%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+35,Greene,Carmichaels Boro Police Dept,1,1,0,100%
+,Greene,Cumberland Township Police Dept,127,100,27,79%
+,Greene,Greene County District Attorney,5,1,4,20%
+,Greene,Greene County Sheriff,3,0,3,0%
+,Greene,"Greene County, Detectives",6,1,5,17%
+,Greene,Southwest Regl Police Dept,17,8,9,47%
+,Greene,Waynesburg Boro Police Dept,77,58,19,75%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,,,,,,,
+34,Huntingdon,Huntingdon Boro Police Dept,87,67,20,77%
+,Huntingdon,Huntingdon County District Attorney,15,10,5,67%
+,Huntingdon,Huntingdon County Sheriff,3,1,2,33%
+,Huntingdon,Mount Union Boro Police Dept,50,42,8,84%,,,,,,
+33,Indiana,Blairsville Borough Police Dept,49,27,22,55%
+,Indiana,Cherry Tree Boro Police Dept,4,2,2,50%
+,Indiana,Clymer Boro Police Dept,2,1,1,50%
+,Indiana,Homer City Boro Police Dept,13,1,12,8%
+,Indiana,Indiana Boro Police Dept,373,349,24,94%
+,Indiana,Indiana County Sheriff,2,2,0,100%
+,Indiana,"Indiana County, Detectives",32,19,13,59%
+,Indiana,"Indiana, University PD",65,54,11,83%,,,,,,
+32,Jefferson,Brockway Boro Police Dept,42,35,7,83%
+,Jefferson,Brookville Boro Police Dept,123,86,37,70%
+,Jefferson,"Indiana, University PD",1,1,0,100%
+,Jefferson,Jefferson County District Attorney,23,14,9,61%
+,Jefferson,Jefferson County Sheriff,6,5,1,83%
+,Jefferson,Punxsutawney Boro Police Dept,89,67,22,75%
+,Jefferson,Reynoldsville Boro Police Dept,47,32,15,68%
+,Jefferson,Sykesville Boro Police Dept,11,8,3,73%,,,,,,
+31,Juniata,Juniata County District Attorney,1,0,1,0%
+,Juniata,Juniata County Sheriff,5,2,3,40%,,,,,,
+31,Lackawanna,Archbald Boro Police Dept,77,67,10,87%
+,Lackawanna,Blakely Boro Police Dept,120,103,17,86%
+,Lackawanna,Carbondale City Police Dept,178,143,35,80%
+,Lackawanna,Carbondale Township Police Dept,1,1,0,100%
+,Lackawanna,Clarks Summit Boro Police Dept,27,22,5,81%
+,Lackawanna,Covington Township Police Dept,24,12,12,50%
+,Lackawanna,Dalton Boro Police Dept,13,12,1,92%
+,Lackawanna,Dickson City Police Dept,217,178,39,82%
+,Lackawanna,Dunmore Boro Police Dept,171,127,44,74%
+,Lackawanna,Duryea Boro Police Dept,1,1,0,100%
+,Lackawanna,Forest City Boro Police Dept,3,3,0,100%
+,Lackawanna,Greenfield Township Police Dept,3,2,1,67%
+,Lackawanna,Jefferson Township Police Dept,7,5,2,71%
+,Lackawanna,Jermyn Boro Police Dept,18,15,3,83%
+,Lackawanna,Jessup Boro Police Dept,37,28,9,76%
+,Lackawanna,Lackawanna County District Attorney,47,39,8,83%
+,Lackawanna,Lackawanna County Sheriff,17,13,4,76%
+,Lackawanna,"Lackawanna County, Detectives",281,254,27,90%
+,Lackawanna,Mayfield Boro Police Dept,16,14,2,88%
+,Lackawanna,Moosic Police Dept,47,38,9,81%
+,Lackawanna,Moscow Boro Police Dept,17,15,2,88%
+,Lackawanna,Old Forge Police Dept,88,73,15,83%
+,Lackawanna,Olyphant Boro Police Dept,56,46,10,82%
+,Lackawanna,Roaringbrook Township Police Dept,5,5,0,100%
+,Lackawanna,Scott Township Police Dept,16,15,1,94%
+,Lackawanna,Scranton City Police Dept,1436,1242,194,86%
+,Lackawanna,South Abington Township Police Dept,100,84,16,84%
+,Lackawanna,Taylor Boro Police Dept,261,232,29,89%
+,Lackawanna,Throop Boro Police Dept,44,36,8,82%
+,Lackawanna,Univ Of Scranton Police Dept,4,2,2,50%
+,Lackawanna,Waverly Township Police Dept,8,8,0,100%,,,,,,
+31,Lancaster,Akron Boro Police Dept,28,22,6,79%
+,Lancaster,Columbia Boro Police Dept,118,61,57,52%
+,Lancaster,East Cocalico Township Police Dept,205,141,64,69%
+,Lancaster,East Earl Township Police Dept,106,92,14,87%
+,Lancaster,East Hempfield Township Police Dept,163,143,20,88%
+,Lancaster,East Lampeter Township Police Dept,403,347,56,86%
+,Lancaster,Elizabethtown Boro Police Dept,335,292,43,87%
+,Lancaster,Ephrata Police Dept,217,163,54,75%
+,Lancaster,Lancaster County Sheriff,167,108,59,65%
+,Lancaster,"Lancaster County, Detectives",33,6,27,18%
+,Lancaster,"Lancaster County, District Attorney",66,26,40,39%
+,Lancaster,Lancaster Police Dept,948,819,129,86%
+,Lancaster,Lititz Boro Police Dept,949,800,149,84%
+,Lancaster,Manheim Boro Police Dept,138,94,44,68%
+,Lancaster,Manheim Township Police Dept,624,497,127,80%
+,Lancaster,Manor Township Police Dept,578,501,77,87%,,,,,,
+30,Lawrence,Bessemer Boro Police Dept,5,5,0,100%
+,Lawrence,Ellwood City Boro Police Dept,123,110,13,89%
+,Lawrence,Hickory Township Police Dept,19,12,7,63%
+,Lawrence,Lawrence County District Attorney,58,34,24,59%
+,Lawrence,Lawrence County Sheriff,5,5,0,100%
+,Lawrence,Mahoning Township Police Dept,31,21,10,68%
+,Lawrence,Neshannock Township Police Dept,104,85,19,82%
+,Lawrence,New Beaver Boro Police Dept,173,125,48,72%
+,Lawrence,New Castle City Police Dept,695,488,207,70%
+,Lawrence,New Wilmington Boro Police Dept,13,13,0,100%
+,Lawrence,North Beaver Township Police Dept,3,3,0,100%
+,Lawrence,Pulaski Township Police Department,26,22,4,85%
+,Lawrence,Shenango Township Police Dept,92,64,28,70%
+,Lawrence,Union Township Police Dept,368,284,84,77%
+,Lawrence,Wampum Boro Police Dept,3,2,1,67%
+,Lawrence,Wayne Township Police Dept,3,1,2,33%ID,county,PD,TP,P,NP,rate
+28,Lehigh,Alburtis Boro Pd Police Dept,11,11,0,100%
+28,Lehigh,Allentown Police Dept,2904,2785,119,96%
+28,Lehigh,Bethlehem City Police Dept,324,311,13,96%
+28,Lehigh,Catasauqua Police Dept,52,46,6,88%
+28,Lehigh,Coopersburg Police Dept,32,29,3,91%
+28,Lehigh,Coplay Borough Police Dept.,16,15,1,94%
+28,Lehigh,Emmaus Boro Police Dept,78,73,5,94%
+28,Lehigh,Fountain Hill Police Dept,78,74,4,95%
+28,Lehigh,Lehigh County District Attorney,8,8,0,100%
+28,Lehigh,LEHIGH COUNTY JAIL,27,27,0,100%
+28,Lehigh,"Lehigh County, Detectives",214,197,17,92%
+28,Lehigh,Lower Milford Township Police Dept,8,7,1,88%
+28,Lehigh,Macungie Boro Police Dept,26,25,1,96%
+28,Lehigh,Salisbury Township Police Dept,98,92,6,94%
+28,Lehigh,Slatington Police Dept,156,142,14,91%
+28,Lehigh,South Whitehall Township Police Dept,387,369,18,95%
+28,Lehigh,Upper Macungie Township Police Dept,215,199,16,93%
+28,Lehigh,Upper Saucon Township Police Dept,68,61,7,90%
+28,Lehigh,Whitehall Township Police Dept,549,522,27,95%
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,ID,county,PD,TP,P,NP,rate
+29,Lebanon,Annville Township Police Dept,70,67,3,96%
+29,Lebanon,Cleona Boro Police Dept,6,5,1,83%
+29,Lebanon,Cornwall Boro Police Dept,29,28,1,97%
+29,Lebanon,Fort Indiantown Police Dept,15,14,1,93%
+29,Lebanon,Lebanon City Police Dept,759,722,37,95%
+29,Lebanon,"Lebanon County, Detectives",142,136,6,96%
+29,Lebanon,Myerstown Police Dept,7,7,0,100%
+29,Lebanon,N Annville Township Police Dept,2,2,0,100%
+29,Lebanon,N Lebanon Township Police Dept,300,295,5,98%
+29,Lebanon,N Londonderry Township Police Dept,131,127,4,97%
+29,Lebanon,North Cornwall Township Police Dept,117,111,6,95%
+29,Lebanon,Palmyra Boro Police Dept,126,125,1,99%
+29,Lebanon,S Lebanon Township Police Dept,64,62,2,97%
+29,Lebanon,S Londonderry Township Police Dept,55,52,3,95%
+29,Lebanon,South Annville Township Police Dept,7,6,1,86%ID,county,PD,TP,P,NP,rate
+27,Luzerne,Ashley Boro Police Dept,81,20,61,25%
+27,Luzerne,Avoca Boro Police Dept,29,0,29,0%
+27,Luzerne,Butler Township Police Dept,85,62,23,73%
+27,Luzerne,Courtdale Boro Police Dept,26,15,11,58%
+27,Luzerne,Conyngham Boro Police Dept,12,8,4,67%
+27,Luzerne,Dallas Boro Police Dept,63,48,15,76%
+27,Luzerne,Dallas Township PD,52,35,17,67%
+27,Luzerne,"Dept Corrections, Central",23,13,10,57%
+27,Luzerne,Dupont Boro Police Dept,59,19,40,32%
+27,Luzerne,Duryea Boro Police Dept,71,40,31,56%
+27,Luzerne,Edwardsville Boro Police Dept,104,34,70,33%
+27,Luzerne,Exeter Boro Police Dept,60,32,28,53%
+27,Luzerne,Exeter Township Police Dept,16,7,9,44%
+27,Luzerne,Fairview Township Police Dept,32,14,18,44%
+27,Luzerne,Forty Fort Pd Police Dept,79,50,29,63%
+27,Luzerne,Freeland Boro Police Dept,48,27,21,56%
+27,Luzerne,Hanover Township Police Dept,131,92,39,70%
+27,Luzerne,Harveys Lake Boro Police Dept,135,84,51,62%
+27,Luzerne,Hazleton Area School District,7,1,6,14%
+27,Luzerne,Hazleton City Police Dept,314,184,130,59%
+27,Luzerne,Hughestown Boro Police Dept,27,17,10,63%
+27,Luzerne,Jackson Township Police Dept,149,111,38,74%
+27,Luzerne,Jenkins Township Police Dept,47,35,12,74%
+27,Luzerne,Kingston Boro Police Dept,267,192,75,72%
+27,Luzerne,Kingston Township Police Dept,87,54,33,62%
+27,Luzerne,Laflin Boro Police Dept,7,1,6,14%
+27,Luzerne,Larksville Boro Police Dept,41,18,23,44%
+27,Luzerne,Lehman Township Police Dept,18,13,5,72%
+27,Luzerne,Luzerne Boro Police Dept,32,12,20,38%
+27,Luzerne,Luzerne County Sheriff,4,0,4,0%
+27,Luzerne,"Luzerne County, Detectives",41,31,10,76%
+27,Luzerne,"Luzerne County, Prison",59,18,41,31%
+27,Luzerne,Luzerne Intermediate unit,3,1,2,33%
+27,Luzerne,Nanticoke Dpt Police Dept,167,44,123,26%
+27,Luzerne,Nescopeck Boro Police Dept,9,1,8,11%
+27,Luzerne,Newport Township Police Dept,134,23,111,17%
+27,Luzerne,"Penn State, University PD",38,19,19,50%
+27,Luzerne,Pittston City Police Dept,215,101,114,47%
+27,Luzerne,Pittston Township Police Dept,165,95,70,58%
+27,Luzerne,Plains Township Police Dept,173,95,78,55%
+27,Luzerne,Plymouth Boro Police Dept,70,9,61,13%
+27,Luzerne,Rice Township Police Dept,11,6,5,55%
+27,Luzerne,Salem Township Police Dept,29,15,14,52%
+27,Luzerne,Sugar Notch Boro Police Dept,8,4,4,50%
+27,Luzerne,Sugarloaf Township Police Dept,70,35,35,50%
+27,Luzerne,Swoyersville Boro Police Dept,34,30,4,88%
+27,Luzerne,West Hazleton Boro Police Dept,85,35,50,41%
+27,Luzerne,West Pittston Boro Police Dept,51,31,20,61%
+27,Luzerne,West Wyoming Boro Police Dept,463,279,184,60%
+27,Luzerne,White Haven Boro Police Dept,110,86,24,78%
+27,Luzerne,Wilkes Barre City Police Dept,1343,809,534,60%
+27,Luzerne,Wilkes Barre Township Police Dept,278,218,60,78%
+27,Luzerne,Wilkes-Barre Area School District,17,8,9,47%
+27,Luzerne,Wright Township Police Dept,38,20,18,53%
+27,Luzerne,Wyoming Boro Police Dept,52,26,26,50%ID,county,PD,TP,P,NP,rate
+25,McKean,Bradford City Police Dept,259,147,112,57%
+25,McKean,Bradford Township Police Dept,52,49,3,94%
+25,McKean,Foster Township Police Dept,105,87,18,83%
+25,McKean,Kane Borough Police Dept,198,170,28,86%
+25,McKean,"Mckean County, Detectives",34,21,13,62%
+25,McKean,Mt Jewett Boro Police Dept,6,5,1,83%
+25,McKean,Otto Eldred Regional Police Dept,19,5,14,26%
+25,McKean,Port Allegany Police Dept,15,12,3,80%
+25,McKean,Smethport Boro Police Dept,21,6,15,29%
+25,McKean,Univ Of Pittsburgh Police Dept,14,12,2,86%ID,county,PD,TP,P,NP,rate
+24,Mercer,Greenville Boro Police Dept,172,103,69,60%
+24,Mercer,Grove City Boro Police Dept,108,106,2,98%
+24,Mercer,Hempfield Township Police Dept,82,63,19,77%
+24,Mercer,Hermitage City Police Dept,671,606,65,90%
+24,Mercer,Jamestown Police Dept,4,1,3,25%
+24,Mercer,Jefferson Township Pd Police Dept,37,29,8,78%
+24,Mercer,Mercer Boro Police Dept,52,15,37,29%
+24,Mercer,Mercer County Sheriff,9,6,3,67%
+24,Mercer,"Mercer County, Detectives",8,5,3,63%
+24,Mercer,New Wilmington Boro Police Dept,2,1,1,50%
+24,Mercer,Pymatuning Township Police Dept,46,20,26,43%
+24,Mercer,Sharon City Police Dept,99,85,14,86%
+24,Mercer,Sharpsville Boro Police Dept,267,216,51,81%
+24,Mercer,Shenango Township Police Dept,43,35,8,81%
+24,Mercer,South Pymatuning Police Dept,42,26,16,62%
+24,Mercer,Southwest Mercer Reg Police Dept,73,57,16,78%
+24,Mercer,Stoneboro Police Dept,163,135,28,83%
+24,Mercer,"Thiel, College PD",2,0,2,0%ID,county,PD,TP,P,NP,rate
+23,Mifflin,Armagh Township Police Dept,34,33,1,97%
+23,Mifflin,Granville Township Police Dept,108,98,10,91%
+23,Mifflin,Huntingdon County District Attorney,1,1,0,100%
+23,Mifflin,Lewistown Police Department,251,237,14,94%
+23,Mifflin,Mifflin County District Attorney,36,32,4,89%
+23,Mifflin,Mifflin County Regl Police Dept,149,137,12,92%ID,county,PD,TP,P,NP,rate
+22,Monroe,Barrett Township Police Dept,20,17,3,85%
+22,Monroe,"East Stroudsburg, University PD",7,6,1,86%
+22,Monroe,Hazleton City Police Dept,1,1,0,100%
+22,Monroe,Monroe County District Attorney,146,123,23,84%
+22,Monroe,Pocono Mt Regl Police Dept,657,593,64,90%
+22,Monroe,Pocono Township Police Dept,327,290,37,89%
+22,Monroe,Stroud Area Regional Police Dept,1077,946,131,88%
+22,Monroe,Stroudsburg Parking Enforcement,1,1,0,100%ID,county,PD,TP,P,NP,rate
+21,Montgomery,Abington Police Dept,904,827,77,91%
+21,Montgomery,Ambler Boro Police Dept,43,40,3,93%
+21,Montgomery,Bridgeport Boro Police Dept,66,56,10,85%
+21,Montgomery,Bryn Athyn Police Dept,5,3,2,60%
+21,Montgomery,Cheltenham Township Police Dept,445,409,36,92%
+21,Montgomery,Collegeville Boro Police Dept,50,38,12,76%
+21,Montgomery,Conshohocken Boro Police Dept,117,79,38,68%
+21,Montgomery,Douglass Township Police Dept,98,74,24,76%
+21,Montgomery,East Norriton Police Dept,193,165,28,85%
+21,Montgomery,Franconia Township Police Dept,45,41,4,91%
+21,Montgomery,Hatboro Boro Police Dept,80,57,23,71%
+21,Montgomery,Hatfield Police Dept,202,191,11,95%
+21,Montgomery,Horsham Police Dept,125,114,11,91%
+21,Montgomery,Jenkintown Boro Police Dept,55,38,17,69%
+21,Montgomery,Lansdale Boro Police Dept,183,171,12,93%
+21,Montgomery,Limerick Township Police Dept,284,251,33,88%
+21,Montgomery,Lower Frederick Police Dept,16,14,2,88%
+21,Montgomery,Lower Gwynedd Police Dept,41,31,10,76%
+21,Montgomery,Lower Merion Police Dept,662,584,78,88%
+21,Montgomery,Lower Moreland Township Police Dept,233,208,25,89%
+21,Montgomery,Lower Pottsgrove Police Dept,174,156,18,90%
+21,Montgomery,Lower Providence Police Dept,269,244,25,91%
+21,Montgomery,Lower Salford Township Police Dept,91,81,10,89%
+21,Montgomery,Marlborough Township Police Dept,27,20,7,74%
+21,,Montgomery County District Attorney,1,1,0,100%
+21,Montgomery,"Montgomery County, Detectives",163,142,21,87%
+21,Montgomery,Montgomery Township Police Dept,571,541,30,95%
+21,Montgomery,New Hanover Township Police Dept,60,44,16,73%
+21,Montgomery,Norristown Boro Police Dept,1059,912,147,86%
+21,Montgomery,North Wales Boro Police Dept,35,29,6,83%
+21,Montgomery,Plymouth Township Police Dept,426,361,65,85%
+21,Montgomery,Pottstown Police Dept,1058,944,114,89%
+21,Montgomery,Reading City Police Dept,4,4,0,100%
+21,Montgomery,Rockledge Boro Police Dept,36,30,6,83%
+21,Montgomery,Royersford Boro P Police Dept,61,45,16,74%
+21,Montgomery,Souderton Boro Police Dept,30,30,0,100%
+21,Montgomery,Springfield Township Police Dept,119,88,31,74%
+21,Montgomery,Telford Boro Police Dept,25,16,9,64%
+21,Montgomery,Towamencin Township Police Dept,161,155,6,96%
+21,Montgomery,Upper Dublin Township Police Dept,172,156,16,91%
+21,Montgomery,Upper Gwynedd Township Police Dept,85,76,9,89%
+21,Montgomery,Upper Merion Township Police Dept,738,660,78,89%
+21,Montgomery,Upper Moreland Township Police Dept,482,447,35,93%
+21,Montgomery,Upper Perkiomen Police Dept,89,70,19,79%
+21,Montgomery,Upper Pottsgrove Police Dept,39,32,7,82%
+21,Montgomery,Upper Providence Police Dept,220,146,74,66%
+21,Montgomery,West Conshohocken Police Dept,34,24,10,71%
+21,Montgomery,West Norriton Township Police Dept,297,275,22,93%
+21,Montgomery,West Pottsgrove Police Dept,94,70,24,74%
+21,Montgomery,Whitemarsh Township Police Dept,110,94,16,85%
+21,Montgomery,Whitpain Township Police Dept,157,134,23,85%ID,county,PD,TP,P,NP,rate
+20,Montour,Danville Boro Police Dept,75,64,11,85%
+20,Montour,Mahoning Township Police Dept,94,73,21,78%ID,county,PD,TP,P,NP,rate
+18,Northumberland,Coal Township Police Dept,218,196,22,90%
+18,Northumberland,Danville Boro Police Dept,1,1,0,100%
+18,Northumberland,Kulpmont Boro Police Dept,32,19,13,59%
+18,Northumberland,Milton Boro Police Dept,118,104,14,88%
+18,Northumberland,Mount Carmel Boro Police Dept,187,156,31,83%
+18,Northumberland,Mount Carmel Township Police Dept,103,87,16,84%
+18,Northumberland,Northumberland Boro Police Dept,38,18,20,47%
+18,Northumberland,"Northumberland County, Detectives",1,0,1,0%
+18,Northumberland,Northumberland District Attorney,13,10,3,77%
+18,Northumberland,Point Township Police Dept,49,43,6,88%
+18,Northumberland,Ralpho Township Police Dept,24,17,7,71%
+18,Northumberland,Riverside Boro Police Dept,18,13,5,72%
+18,Northumberland,Shamokin Police Dept,239,72,167,30%
+18,Northumberland,Sunbury City Police Dept,207,122,85,59%
+18,Northumberland,Watsontown Police Dept,46,42,4,91%
+18,Northumberland,Zerbe Township Police Dept,6,3,3,50%ID,county,PD,TP,P,NP,rate
+19,Northampton,Bangor Boro Police Dept,76,66,10,87%
+19,Northampton,Bethlehem City Police Dept,1213,1070,143,88%
+19,Northampton,Bethlehem Township Police Dept,309,298,11,96%
+19,Northampton,Bushkill Township Police Dept,55,45,10,82%
+19,Northampton,Colonial Regional Police Dept,387,353,34,91%
+19,Northampton,East Bangor Police Dept,1,1,0,100%
+19,Northampton,Easton Area School District,1,1,0,100%
+19,Northampton,Easton Police Dept,689,592,97,86%
+19,Northampton,Forks Township Police Dept,96,95,1,99%
+19,Northampton,Freemansburg Police Dept,107,106,1,99%
+19,Northampton,Hellertown Boro Police Dept,105,84,21,80%
+19,Northampton,"Lafayette College, Public Safety",3,3,0,100%
+19,Northampton,"Lehigh County, Detectives",11,10,1,91%
+19,Northampton,Lehigh Township Police Dept,88,78,10,89%
+19,Northampton,"Lehigh, University PD",40,36,4,90%
+19,Northampton,Lower Saucon Police Dept,171,145,26,85%
+19,Northampton,Moore Township Police Dept,76,73,3,96%
+19,Northampton,"Moravian, College PD",8,8,0,100%
+19,Northampton,Nazareth Boro Police Dept,68,65,3,96%
+19,Northampton,North Catasauqua Police Dept,18,18,0,100%
+19,Northampton,Northampton Borough Police Dept,68,65,3,96%
+19,Northampton,Northampton Area SD Police,2,1,1,50%
+19,Northampton,Northampton Cnt District Attorney,12,11,1,92%
+19,Northampton,Northampton County Sheriff,5,5,0,100%
+19,Northampton,"Northampton County, Detectives",15,13,2,87%
+19,Northampton,Palmer Township Police Dept,189,180,9,95%
+19,Northampton,Pen Argyl Police Dept,19,18,1,95%
+19,Northampton,Plainfield Township Police Dept,15,12,3,80%
+19,Northampton,Portland Police Dept,31,27,4,87%
+19,Northampton,Roseto Boro Police Dept,10,10,0,100%
+19,Northampton,Slate Belt Regional PD,79,73,6,92%
+19,Northampton,Stockertown Police Dept,21,20,1,95%
+19,Northampton,Tatamy Boro Police Dept,7,7,0,100%
+19,Northampton,Upper Naz Township Police Dept,32,26,6,81%
+19,Northampton,Walnutport Police Dept,45,40,5,89%
+19,Northampton,Washington Township Police Dept,9,4,5,44%
+19,Northampton,Wilson Boro Police Dept,153,120,33,78%
+19,Northampton,Wind Gap Police Dept,21,13,8,62%ID,county,PD,TP,P,NP,rate
+17,Perry,E Pennsboro Township Police Dept,1,1,0,100%
+17,Perry,Marysville Police Dept,19,10,9,53%
+17,Perry,Penn Township Police Dept,73,47,26,64%
+17,Perry,Perry County Drug Task Force,2,1,1,50%
+17,Perry,Perry County Sheriff,4,4,0,100%ID,county,PD,TP,P,NP,rate
+16,Philadelphia,Philadelphia District Attorney's Office,150,8,142,5%
+16,Philadelphia,"Delaware River Bridge, Port Authority",1,1,0,100%
+16,Philadelphia,Pennsylvania Office of Attorney General,38,38,0,100%
+16,Philadelphia,Philadelphia Housing Authority Pd,19,19,0,100%
+16,Philadelphia,Philadelphia Pd,37964,37911,53,100%
+16,Philadelphia,University Of Pennsylvania Pd,26,26,0,100%ID,county,PD,TP,P,NP,rate
+15,Pike,East Stroudsburg School District Police,5,4,1,80%
+15,Pike,Eastern Pike Regl Police Dept,185,155,30,84%
+15,Pike,Milford Police Dept,42,39,3,93%
+15,Pike,Pike County Sheriff,5,4,1,80%
+15,Pike,"Pike County, Detectives",37,35,2,95%
+15,Pike,Shohola Township Police Dept,5,5,0,100%ID,county,PD,TP,P,NP,rate
+14,Potter,Coudersport Boro Police Dept,48,45,3,94%
+14,Potter,Galeton Boro Police Dept,16,9,7,56%
+14,Potter,Shinglehouse Police Dept,5,4,1,80%
+14,Potter,Sweden Township Police Dept,6,6,0,100%
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+13,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,
+,0,0,0,0,0,ID,county,PD,TP,P,NP,rate
+13,Schuylkill,Ashland Boro Police Dept,109,72,37,66%
+13,Schuylkill,Branch Township Police Dept,6,5,1,83%
+13,Schuylkill,Butler Township Police Dept,38,30,8,79%
+13,Schuylkill,Cass Township Police Dept,15,9,6,60%
+13,Schuylkill,Coaldale Police Dept,71,45,26,63%
+13,Schuylkill,East Union Township Police Dept,9,3,6,33%
+13,Schuylkill,Foster Township Police Department,4,4,0,100%
+13,Schuylkill,Frackville Boro Police Dept,133,89,44,67%
+13,Schuylkill,Girardville Police Dept,31,23,8,74%
+13,Schuylkill,Hegins Township Police Dept,13,8,5,62%
+13,Schuylkill,Kline Township Police Dept,19,8,11,42%
+13,Schuylkill,Mahanoy City Police Dept,167,85,82,51%
+13,Schuylkill,Mahanoy Township Police Dept,18,11,7,61%
+13,Schuylkill,Mcadoo Police Dept,78,50,28,64%
+13,Schuylkill,Minersville Police Dept,117,78,39,67%
+13,Schuylkill,New Castle Township Police Dept,3,3,0,100%
+13,Schuylkill,New Philadelphia Police Dept,3,0,3,0%
+13,Schuylkill,Orwigsburg Police Dept,23,17,6,74%
+13,Schuylkill,"Penn State, University PD",6,2,4,33%
+13,Schuylkill,Pine Grove Boro Police Dept,14,9,5,64%
+13,Schuylkill,Port Carbon Police Dept,300,171,129,57%
+13,Schuylkill,Pottsville Police Dept,308,182,126,59%
+13,Schuylkill,Reilly Township Police Dept,3,3,0,100%
+13,Schuylkill,Rush Township Police Dept,201,128,73,64%
+13,Schuylkill,Ryan Township Police Dept,7,3,4,43%
+13,Schuylkill,Schuylkill County District Attorney,28,22,6,79%
+13,Schuylkill,Schuylkill County Sheriff,2,2,0,100%
+13,Schuylkill,Schuylkill Haven Police Dept,229,152,77,66%
+13,Schuylkill,Shenandoah Police Dept,349,183,166,52%
+13,Schuylkill,St Clair Police Dept,83,47,36,57%
+,Schuylkill,Tamaqua Police Dept,234,124,110,53%
+,Schuylkill,Tower City Police Dept,24,16,8,67%
+,Schuylkill,Tremont Police Dept,5,5,0,100%
+,Schuylkill,Walker Township Police Dept,1,1,0,100%
+,Schuylkill,West Mahanoy Township Police Dept,46,23,23,50%
+,Schuylkill,West Penn Township Police Dept,24,11,13,46%ID,county,PD,TP,P,NP,rate
+12,Snyder,Middleburg Boro Police Dept,50,49,1,98%
+12,Snyder,Selinsgrove Boro Police Dept,35,34,1,97%
+12,Snyder,Shamokin Dam Boro Police Dept,18,17,1,94%
+12,Snyder,Snyder County District Attorney,8,8,0,100%
+12,Snyder,Snyder County Sheriff,3,3,0,100%ID,county,PD,TP,P,NP,rate
+11,Somerset,Berlin Boro Police Dept,21,18,3,86%
+11,Somerset,Boswell Boro Police Dept,5,5,0,100%
+11,Somerset,Conemaugh Township Police Dept,62,47,15,76%
+11,Somerset,Confluence Boro Police Dept,7,7,0,100%
+11,Somerset,Hooversville Boro Police Dept,10,8,2,80%
+11,Somerset,Jennerstown Boro Police Dept,13,11,2,85%
+11,Somerset,Meyersdale Boro Police Dept,16,15,1,94%
+11,Somerset,Paint Township Police Dept,5,5,0,100%
+11,Somerset,Rockwood Boro Police Dept,13,11,2,85%
+11,Somerset,Shade Township Police Dept,84,53,31,63%
+11,Somerset,Somerset Boro Police Dept,87,58,29,67%
+11,Somerset,Somerset County District Attorney,35,28,7,80%
+11,Somerset,"Somerset County, Detectives",6,5,1,83%
+11,Somerset,Summit Township Police Dept,4,3,1,75%
+11,Somerset,Windber Boro Police Dept,96,89,7,93%ID,county,PD,TP,P,NP,rate
+10,Susquehanna,Forest City Boro Police Dept,44,26,18,59%
+10,Susquehanna,Great Bend Police Department,14,12,2,86%
+10,Susquehanna,Hop Bottom Boro Police Dept,6,1,5,17%
+10,Susquehanna,Lanesboro Boro Police Dept,12,5,7,42%
+10,Susquehanna,Montrose Boro Police Dept,26,6,20,23%
+10,Susquehanna,Oakland Boro Police Dept,6,3,3,50%
+10,Susquehanna,Silver Lake Township Police Dept,10,5,5,50%
+10,Susquehanna,"Susquehanna County, Detectives",106,98,8,92%ID,county,PD,TP,P,NP,rate
+1,Tioga,Blossburg Boro Police Dept,34,23,11,68%
+1,Tioga,Elkland Boro Police Dept,19,10,9,53%
+1,Tioga,Gaines Township Police Dept,3,2,1,67%
+1,Tioga,Lawrence Township Police Dept,9,0,9,0%
+1,Tioga,Lawrenceville Boro Police Dept,9,0,9,0%
+1,Tioga,Mansfield Boro Police Dept,42,25,17,60%
+1,Tioga,"Mansfield, University PD",8,8,0,100%
+1,Tioga,Osceola Township Police Dept,4,1,3,25%
+1,Tioga,Tioga Boro Police Dept,4,1,3,25%
+1,Tioga,"Tioga County, Detectives",4,3,1,75%
+1,Tioga,Wellsboro Boro Police Dept,127,118,9,93%
+1,Tioga,Westfield Boro Police Dept,37,18,19,49%ID,county,PD,TP,P,NP,rate
+2,Union,"Bucknell, University",4,4,0,100%
+2,Union,Buffalo Valley Regional Police Department,101,75,26,74%
+2,Union,Mifflinburg Boro Police Dept,35,30,5,86%
+2,Union,New Berlin Police Dept,17,13,4,76%
+2,Union,Union County Sheriff,8,7,1,88%
+2,Union,"Union County, Detectives",7,4,3,57%PDID,county,PD,TP,P,NP,rate
+3,Venango,Emlenton Police Dept,16,14,2,88%
+3,Venango,Franklin Police Dept,155,151,4,97%
+3,Venango,Oil City Police Dept,175,173,2,99%
+3,Venango,Polk Boro Police Dept,20,19,1,95%
+3,Venango,Sugarcreek Boro Police Dept,77,73,4,95%
+3,Venango,Venango County Sheriff,7,7,0,100%
