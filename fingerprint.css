@@ -12,6 +12,7 @@ p {
 }
 
 h1 {
+	padding-top: 110px;
 	font-family: Arial;
 	font-size:60px;
 	font-weight: bolder;
@@ -26,6 +27,12 @@ h2 {
 	text-align: left;
 	transform: scaleY(1.1);
 	text-align: center
+}
+
+p.data {
+	float: left;
+	font-size: 12px;
+	position: relative;
 }
 
 p.h3 {
@@ -61,10 +68,23 @@ p.instructions {
 	padding-left: 100px;
 }
 
+#topImage {
+	float: left;
+	text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+#map {
+	float: right;
+	max-height: 800px;
+	position: relative;
+}
+
 #FingerprintCalculator {
 	float: left;
 	padding-left: 100px;
 	align-content: left;
+	position:absolute;
 }
 
 #zipCode {
@@ -74,6 +94,10 @@ p.instructions {
 	margin-left: 20px;
 	position: relative;
 	max-width: 200px;
+}
+
+#calculator {
+	position: relative;
 }
 
 #biggestOffender {
