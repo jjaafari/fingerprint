@@ -4,7 +4,7 @@
  */
 var lookup = function(zip) {
         //borrowed from http://docs.cartodb.com/cartodb-platform/cartodb-js/sql/
-        var sql = new cartodb.SQL({
+        var sql = newcartodb.SQL({
             user: 'jjaafari'
         });
 
