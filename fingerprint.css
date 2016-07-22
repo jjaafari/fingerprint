@@ -1,0 +1,67 @@
+
+body {
+	padding-left: 50px;
+	padding-right: 500px;
+	background-color: #f2f2f2;
+}
+p {
+	font: 18px arial, sans-serif;
+	padding-right: 20px;
+	padding-left: 20px;
+	
+}
+
+h2 {
+	font-family: Arial;
+	font-size:34px;
+	font-weight: bolder;
+}
+
+p.explainer {
+	font-size: 19px;
+}
+
+hr{
+    height: 8px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+    padding-left: 20px;
+ }
+
+p.instructions {
+	font-size: 18px;
+	font-variant: small-caps; 
+}
+
+#zipCode {
+	font-family: Arial, sans-serif;
+	font-size: 40px;
+	font-weight: bolder;
+	margin-left: 20px;
+	position: relative;
+	max-width: 200px;
+}
+
+#biggestOffender {
+	font: 18px arial, sans-serif;
+	font-weight: bold;
+	padding-right: 150px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+
+#felons_no_print {
+	font: 18px arial, sans-serif;
+	font-weight: bold;
+	padding-right: 150px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+#calc {
+	font-family: Arial, sans-serif;
+	font-size: 40px;
+	font-weight: bolder;
+	vertical-align: bottom;
+}
